@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammed naqib
+- 👋 Hi, I’m Mohammed Naqib
 - 👀 I’m interested in backend development and devops
 - 🌱 I’m currently learning REST API and GRAPHQL
 - 💞️ I’m looking to collaborate on Backend techs
