@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Naqib
 - 👀 I’m interested in Full-Stack development and DevOps
-- 🌱 I’m currently learning REST API and GRAPHQL
+- 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on Backend techs
 - 📫 You can reach me on mail naqibdargaroad@gmail.com
 
